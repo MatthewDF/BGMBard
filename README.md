@@ -21,6 +21,8 @@ From the dropdown, select the zone you want to override music for, then `Add Ove
 
 Below, you'll see the zone added with Day and Night music options. The number in [brackets] is the song ID, and the zones names beside it are the zones that use that song. 
 
+<img width="536" height="266" alt="image" src="https://github.com/user-attachments/assets/fcbadea1-d76f-46cf-9fac-b45e7ac7f3e1" />
+
 ## Advanced Music Replace
 
 <img width="608" height="248" alt="image" src="https://github.com/user-attachments/assets/6b4764ca-0bf7-4b27-b3c8-9e2f96f003ff" />
